@@ -61,11 +61,11 @@ ul {
     padding: 150px 0px;
 }
 
-.poppins-regular {
+h1 .poppins-regular {
     font-family: 'poppins-extralight', 'sans-serif';
 }
 
-.poppins-bold {
+h1 .poppins-bold {
     font-family: 'poppins-bold', 'sans-serif';
 }
 
