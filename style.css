@@ -1,21 +1,21 @@
 @font-face {
     font-family: "poppins-extralight";
-    src: url('/Site\ 2/fonts/Poppins-ExtraLight.ttf')
+    src: url('fonts/Poppins-ExtraLight.ttf')
 }
 
 @font-face {
     font-family: "poppins-semibold";
-    src: url('/Site\ 2/fonts/Poppins-SemiBold.ttf')
+    src: url('fonts/Poppins-SemiBold.ttf')
 }
 
 @font-face {
     font-family: "poppins-bold";
-    src: url('/Site\ 2/fonts/Poppins-Bold.ttf')
+    src: url('fonts/Poppins-Bold.ttf')
 }
 
 @font-face {
     font-family: "poppins-medium";
-    src: url('/Site\ 2/fonts/Poppins-Medium.ttf')
+    src: url('fonts/Poppins-Medium.ttf')
 }
 
 * {
