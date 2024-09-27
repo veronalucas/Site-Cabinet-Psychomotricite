@@ -74,6 +74,11 @@ h1 {
     letter-spacing: -4px;
     line-height: 100%;
     text-align: center;
+    color: #FFF;
+}
+
+.sous-titre {
+    color: #FFF;
 }
 
 h2 {
@@ -152,8 +157,8 @@ p.identite {
     border-radius: 99px;
     border: none;
     gap: 12px;
-    background-color: #0E208F;
-    color: #FFFFFF;
+    background-color: #FFDEFE;
+    color: #B91DB3;
     transition: 0.5s;
     cursor: pointer;
     text-decoration: none;
