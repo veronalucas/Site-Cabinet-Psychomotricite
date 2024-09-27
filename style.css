@@ -31,6 +31,7 @@ section.top-page {
     background-image: url(backgroundv2.svg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: 20%;
     height: 800px;
 }
 
