@@ -39,7 +39,7 @@ body {
     gap: 48px;
     justify-content: center;
     align-items: center;
-    background: url(/Site\ 3/background-velo.png);
+    background: url(./background-velo.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 40%;
