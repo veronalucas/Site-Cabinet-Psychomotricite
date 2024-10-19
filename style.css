@@ -523,9 +523,10 @@ p {
 
     .top-section {
         padding-top: 80px;
-        padding-bottom: 600px;
+        padding-bottom: 500px;
+        background: url(./background-velo-mobile.png);
         background-size: cover;
-        background-position: 45%;
+        background-position: 48%;
     }
 
     h1 {
