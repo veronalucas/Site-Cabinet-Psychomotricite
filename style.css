@@ -213,6 +213,11 @@ p {
 .prendre-rdv h3,
 .equipe-cabinet h3 {
     text-align: center;
+    max-width: 950px;
+}
+
+.financement h3 {
+    max-width: 600px;
 }
 
 .equipe-cabinet-content {
