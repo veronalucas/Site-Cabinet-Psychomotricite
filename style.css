@@ -571,6 +571,12 @@ p {
         text-align: left;
     }
 
+    .sous-titre {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
     .presentation-cabinet-content {
         display: flex;
         flex-direction: column;
