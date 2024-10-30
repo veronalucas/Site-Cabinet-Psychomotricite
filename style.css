@@ -54,6 +54,10 @@ h1 {
     letter-spacing: -4px;
 }
 
+h2 {
+    text-transform: uppercase;
+}
+
 .p-titre {
     font-family: "inter-medium", 'sans-serif';
     ;
